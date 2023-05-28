@@ -14,10 +14,10 @@ I am using TailwindCSS for styling and Supabase for authentication and database.
 
 - [x] Bootstrap project using SvelteKit
 - [ ] Add a headless component library
-- [ ] Add auth using supabase
 - [ ] Create a Wordle clone
-- [ ] Create a landing page
 - [ ] Create game room/lobby
+- [ ] Add auth using supabase
+- [ ] Create a landing page
 - [ ] Dark Mode
 - [ ] High Scores
 - [ ] TBD
