@@ -13,8 +13,11 @@ I am using TailwindCSS for styling and Supabase for authentication and database.
 ## Roadmap
 
 - [x] Bootstrap project using SvelteKit
-- [ ] Add a headless component library
-- [ ] Create a Wordle clone
+- [x] Add a headless UI library
+- [x] Create a Wordle clone – _started_
+  - [ ] Add a random word selection
+  - [ ] Add feedback
+  - [ ] Add animations
 - [ ] Create game room/lobby
 - [ ] Add auth using supabase
 - [ ] Create a landing page
